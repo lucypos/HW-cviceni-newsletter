@@ -40,3 +40,7 @@ button {
 input {
 	width: 11em;
 }
+
+.ramecek {
+	border: 4px solid red;
+}
